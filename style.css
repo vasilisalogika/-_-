@@ -1,0 +1,98 @@
+body {
+    font-family: PT Serif;
+    color: rgb(107, 0, 214);
+    background-color: rgb(154, 105, 201);
+}
+
+header {
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/635/933/257/fantasy-art-orcs-warrior-wallpaper-preview.jpg);
+    height: 340px;
+    background-position: 25% 75%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+nav a {
+    background-color: rgba(255, 122, 0, 1);
+    border: 10px rgba(255, 122, 0, 1);
+    border-radius: 10px;
+    color: rgb(107, 0, 214);
+    font-family: PT Serif;
+    padding: 10px;
+    text-decoration: none;
+    box-shadow: 10px 20px 10px 0px rgb(0, 0, 0);
+    margin: 10px;
+    margin-bottom: 300px;
+}
+
+
+.participants{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.part{
+    background-color: rgba(255, 122, 0, 1);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 20px 10px 0px rgb(48, 48, 48);
+}
+
+
+.coo {
+    position: absolute;
+    top: 20px;
+    left: 45%;
+}
+
+
+header h1 {
+    text-align: center;
+}
+
+h4 {
+    background-color: rgba(255, 122, 0, 1);
+}
+
+img {
+    height: 130px;
+    width: 130px;
+}
+
+h3{
+    background-color: rgba(255, 122, 0, 1);
+    text-align: center;
+}
+
+h2{
+    background-color: rgba(255, 122, 0, 1);
+    text-align: center;
+}
+
+.ooo {
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    border: 10px rgba(255, 122, 0, 1);
+    background-color: rgba(255, 122, 0, 1);
+    margin: 10px;
+    padding: 10px;
+}
+
+iframe {
+    box-shadow: 10px 20px 10px 0px rgb(48, 48, 48);
+}
+
+footer {
+    background-color: rgb(107, 0, 214);
+}
+
