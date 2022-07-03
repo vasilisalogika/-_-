@@ -94,5 +94,18 @@ iframe {
 
 footer {
     background-color: rgb(107, 0, 214);
+    height: 50px;
 }
 
+a {
+    background-color: rgba(255, 122, 0, 1);
+    border: 10px rgba(255, 122, 0, 1);
+    border-radius: 10px;
+    color: rgb(107, 0, 214);
+    font-family: PT Serif;
+    padding: 10px;
+    text-decoration: none;
+    box-shadow: 10px 20px 10px 0px rgb(0, 0, 0);
+    margin-left: 50px;
+    margin-top: 50px;
+}
